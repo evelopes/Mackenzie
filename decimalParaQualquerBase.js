@@ -1,4 +1,5 @@
-var numero = 47;
+//Alterar o número abaixo a ser convertido, e a base desejada
+var numero = 47; 
 
 const base2 = 2;
 const base8 = 8;
@@ -7,6 +8,8 @@ let resto = [];
 let hexadecimal = ["A", "B","C", "D","E","F"];
 let novaBase = "";
 
+
+// Escolher a base desejada para a conversão:
 //dividir(numero,base16)
 dividir(numero,base2)
 //dividir(numero,base8)
