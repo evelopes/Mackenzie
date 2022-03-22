@@ -1,6 +1,7 @@
 # Mackenzie
 ## Projetos criados por mim durante as aulas 
 <a href="https://www.instagram.com/trazumcafe/"> >> Instagram com resumos de conteúdos aprendidos << </a>
+
 <a href="https://evelindev.substack.com/"> >> Blog/newsletter com conteúdos de programação << </a>
 
 ## :full_moon: Projetos Concluídos:
