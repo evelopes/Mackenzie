@@ -9,3 +9,4 @@
 
 ## :new_moon:Projetos Andamento:
 
+* Carregando códigos Python das aulas na Mackenzie
